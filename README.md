@@ -2,7 +2,7 @@
 
 ### Learn the tools, techniques, and industry secrets to craft breathtaking game worlds that captivate players and push artistic boundaries using Unreal Engine 5
 
-This is the code repository for ## Creating Stunning Environments in Unreal Engine 5 - A Game Artist Bootcamp, published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
+This is the code repository for "Creating Stunning Environments in Unreal Engine 5 - A Game Artist Bootcamp", published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 
 ## About Course
 
