@@ -1,2 +1,0 @@
-LandscapeMap.umap filter=lfs diff=lfs merge=lfs -text
-LandscapeMap_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
